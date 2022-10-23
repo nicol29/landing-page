@@ -79,3 +79,41 @@ a {
     font-weight: 800;
     color: #F9FAF8;
 }
+
+.grids img{
+    width: 150px;
+    height: 150px;
+    border-radius: 15%;
+    border: 3px solid #3882F6;
+}
+
+.grids {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.grids p {
+    width: 150px;
+}
+
+.image-grid {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.second-section div {
+    width: 900px;
+}
+
+.second-section {
+    display: flex;
+    justify-content: center;
+}
+
+.rand-info {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
