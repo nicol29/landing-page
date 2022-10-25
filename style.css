@@ -3,6 +3,7 @@ body {
     padding: 0;
     display: flex;
     flex-direction: column;
+    font-family: Helvetica, sans-serif;
 }
 
 ul {
@@ -85,6 +86,7 @@ a {
     height: 150px;
     border-radius: 15%;
     border: 3px solid #3882F6;
+    object-fit: cover;
 }
 
 .grids {
@@ -126,6 +128,7 @@ a {
 
 .testimonial p {
     font-size: 26px;
+    font-weight: 300;
     margin-bottom: 0;
     padding-top: 80px;
 }
