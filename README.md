@@ -1,1 +1,2 @@
 # landing-page
+A web page has been created which follows a common design we see throughout the web. The page features four main sections which includes a header with links, a hero, a grid photo layout along with a sign up box. The web page's layout was arranged using flexbox. 
